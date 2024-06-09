@@ -1,4 +1,4 @@
-import { PrimaryAttr } from "@/client/constants/primary-attr";
+import { PrimaryAttr } from "@/src/client/constants/primary-attr";
 
 interface HeroProps {
   id?: number;
